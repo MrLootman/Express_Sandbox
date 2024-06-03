@@ -4,7 +4,7 @@ Ce dépôt servira de bac à sable pour s'entraîner avec MySQL et le logiciel P
 
 Pour faire fonctionner ce dépôt, tu vas devoir procéder aux étapes suivantes :
 
-1. Tu vas effectuer la commande `npm install` à la racine du répertoire *server_sandbox*.
+1. Tu vas effectuer la commande `npm install` à la racine du répertoire *Express_Sandbox*.
 
 2. Tu vas copier le .env.sample et t'approprier tes propres variables d'environnement !
       -> Tu peux maintenir les valeurs des variables DB_NAME et DB_PORT.
